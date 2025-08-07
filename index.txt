@@ -1,0 +1,38 @@
+<!Doctype html> 
+<html> 
+<head> 
+<title> 
+First Question
+</title> 
+</head> 
+<body> 
+<h2> The most favourite movies of mine. </h2>
+<marquee> <h4>EEGA is the most favourite among all movies.</h4></marquee>
+<table border="1">
+<tr>
+<th>S.NO</th>
+<th>Movie Name</th>
+<th>Genre</th>
+<th>Year</th>
+<th>Rating</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Eega</td>
+<td>Fantacy Action</td>
+<td>2012</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Masooda</td>
+<td>Horror</td>
+<td>2022</td>
+<td>4.6</td>
+</tr>
+</table>
+<img src="eega.jpg" alt="Example Image" height=200" width="150"><br>
+<audio src="audio.mp3" controls></audio> <br>
+ <video src="trailer.mp4" height="150" width="300" controls> </video>
+</body> 
+</html>
